@@ -1,0 +1,203 @@
+{
+  "units": [
+    {
+      "placas": "PBR5378",
+      "marca": "Chebrolet",
+      "modelo": "Express",
+      "color": "Blanco",
+      "tipo_unidad": "Van",
+      "activo": 1,
+      "combustible_preferido": "Magna",
+      "tipo_carga": "Combustible, aceite",
+      "carga_garrafones": "No",
+      "periodo_habil": "Semanal",
+      "limite_litros": 100.0
+    },
+    {
+      "placas": "LF20257",
+      "marca": "Isuzu",
+      "modelo": "300",
+      "color": "Blanco",
+      "tipo_unidad": "Carga",
+      "activo": 1,
+      "combustible_preferido": "Diésel",
+      "tipo_carga": "Combustible, aceite",
+      "carga_garrafones": "No",
+      "periodo_habil": "Semanal",
+      "limite_litros": 80.0
+    },
+    {
+      "placas": "LF69638",
+      "marca": "Worker",
+      "modelo": "9.15",
+      "color": "Blanco",
+      "tipo_unidad": "Carga",
+      "activo": 1,
+      "combustible_preferido": "Diésel",
+      "tipo_carga": "Combustible, aceite",
+      "carga_garrafones": "No",
+      "periodo_habil": "Semanal",
+      "limite_litros": 120.0
+    },
+    {
+      "placas": "248UYA",
+      "marca": "Ford",
+      "modelo": "Curier",
+      "color": "Gris",
+      "tipo_unidad": "Camioneta",
+      "activo": 0,
+      "combustible_preferido": "Premium",
+      "tipo_carga": "Combustible, aceite",
+      "carga_garrafones": "Si",
+      "periodo_habil": "Semanal",
+      "limite_litros": 62.0
+    },
+    {
+      "placas": "RCZ347A",
+      "marca": "Kia",
+      "modelo": "Rilo",
+      "color": "Gris",
+      "tipo_unidad": "Auto",
+      "activo": 0,
+      "combustible_preferido": "Magna",
+      "tipo_carga": "Combustible",
+      "carga_garrafones": "Si",
+      "periodo_habil": "Semanal",
+      "limite_litros": 46.0
+    }
+  ],
+  "inventory_checklist": {
+    "PBR5378": [
+      {
+        "item": "circulación",
+        "valor": "si"
+      },
+      {
+        "item": "estintor",
+        "valor": "si"
+      },
+      {
+        "item": "llantas de refacción",
+        "valor": "no"
+      },
+      {
+        "item": "cable de corriente",
+        "valor": "no"
+      },
+      {
+        "item": "playo",
+        "valor": "1"
+      },
+      {
+        "item": "chaleco",
+        "valor": "2"
+      },
+      {
+        "item": "cintas de carga",
+        "valor": "no"
+      }
+    ],
+    "LF20257": [
+      {
+        "item": "circulación",
+        "valor": "si"
+      },
+      {
+        "item": "permiso de carga",
+        "valor": "2026-02-28"
+      },
+      {
+        "item": "estintor",
+        "valor": "si"
+      },
+      {
+        "item": "llantas de refacción",
+        "valor": "mal estado"
+      },
+      {
+        "item": "cable de corriente",
+        "valor": "no"
+      },
+      {
+        "item": "playo",
+        "valor": "1"
+      },
+      {
+        "item": "chaleco",
+        "valor": "2"
+      },
+      {
+        "item": "cintas de carga",
+        "valor": "1"
+      }
+    ],
+    "LF69638": [
+      {
+        "item": "circulación",
+        "valor": "si"
+      },
+      {
+        "item": "seguro",
+        "valor": "2026-07-20"
+      },
+      {
+        "item": "verificación",
+        "valor": "feb-marzo"
+      },
+      {
+        "item": "Dados",
+        "valor": "no"
+      },
+      {
+        "item": "Matraca",
+        "valor": "no"
+      },
+      {
+        "item": "gato",
+        "valor": "no"
+      },
+      {
+        "item": "estintor",
+        "valor": "2"
+      },
+      {
+        "item": "llantas de refacción",
+        "valor": "si"
+      },
+      {
+        "item": "cable de corriente",
+        "valor": "si"
+      },
+      {
+        "item": "playo",
+        "valor": "1"
+      },
+      {
+        "item": "chaleco",
+        "valor": "2"
+      },
+      {
+        "item": "cintas de carga",
+        "valor": "0"
+      },
+      {
+        "item": "Gatas de carga",
+        "valor": "2"
+      }
+    ]
+  },
+  "conductores": [
+    {
+      "nombre": "Por definir 1",
+      "activo": 1
+    },
+    {
+      "nombre": "Por definir 2",
+      "activo": 1
+    },
+    {
+      "nombre": "Por definir 3",
+      "activo": 1
+    }
+  ]
+}
